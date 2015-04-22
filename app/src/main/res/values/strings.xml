@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+    <string name="str_btn_return">Return</string>
+
+<string-array name="place_type">
+    <item>pizza</item>
+    <item>church</item>
+    <item>restaurant</item>
+    <item>pizza</item>
+    <item>hotel</item>
+
+
+</string-array>
+
+<string-array name="place_type_name">
+    <item>pizza</item>
+    <item>church</item>
+    <item>Restaurant</item>
+    <item>Pizza</item>
+    <item>Hotel</item>
+
+</string-array>
+</resources>
