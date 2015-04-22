@@ -41,7 +41,7 @@ public class MapsActivity extends FragmentActivity implements LocationListener{
     double mLatitude=0;
     double mLongitude=0;
     SupportMapFragment fragment = null;
-    public int henke = 0;
+
 
 
 
