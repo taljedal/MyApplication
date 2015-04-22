@@ -6,11 +6,11 @@
     android:background="#F0F8FF">
 
     <TextView
-        android:text="What2Do?"
+        android:text="What To Do?"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:textSize="70sp"
+        android:textSize="65sp"
         android:textColor="#638BB5"
 
         />
